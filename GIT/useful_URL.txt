@@ -1,0 +1,2 @@
+1. GIT Beginners PDF Document - Good and must read for beginners
+http://git-scm.com/book

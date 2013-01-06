@@ -1,0 +1,20 @@
+Steps for setting up new GIT repository on GITHUB
+
+1. Get the GITHUB User Account - harisha,harisha@
+2. Creating SSH key (ssh-keygen -t rsa) for your host and add the public key to the account
+3. Create a new repository
+4. Configure user and emailId
+   git config --global user.email <emailId>
+   git config --global user.name <name>
+
+5. 
+  git init
+  touch README
+  vi README
+  clear
+  git add README
+  git commit README
+  git remote add origin git@github.com:stf-admin/<repository_name>
+  git push origin master
+
+5. Now GITHUB will have the contents you have pushed

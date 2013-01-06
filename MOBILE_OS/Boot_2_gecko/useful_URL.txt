@@ -1,0 +1,2 @@
+1. Mozilla site for boot2gecko
+https://wiki.mozilla.org/B2G

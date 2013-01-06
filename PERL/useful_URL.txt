@@ -1,0 +1,2 @@
+1. Link for Perl Beginners Tutorial and PDF Document - Must Read for Beginners
+http://www.perl.org/books/beginning-perl/
