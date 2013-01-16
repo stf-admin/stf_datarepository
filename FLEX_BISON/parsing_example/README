@@ -1,0 +1,14 @@
+How to execute and test
+
+1. flex parser.l
+2. bison -d test.y
+3. cc test.tab.c lex.yy.c -I . -o cmd_parse
+4. ./cmd_parse
+
+On terminal enter the token grammars
+
+> SMS;
+> TRAFFIC GREEN_LIGHT;
+
+
+
