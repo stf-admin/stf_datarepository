@@ -1,0 +1,9 @@
+Steps on Android Phone
+1. Install VLC direct pro android APP on Android Phone
+
+Steps on Linux PC
+1. Setup link
+	http://hobbyistsoftware.com/VLCSetup-linux
+
+2. Stop the firewall - if your able to connect to VLC, but not able to stream
+	http://askubuntu.com/questions/250775/how-do-i-turn-off-the-firewall-in-ubuntu-12-04
